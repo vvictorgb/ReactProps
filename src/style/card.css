@@ -1,0 +1,36 @@
+.card{
+    margin: 60px auto;
+    height: 300px;
+    width: 1000px;
+    display: flex;
+    background-color: white;
+    box-shadow: 0px 0px 5px grey;
+}
+.imagen1{
+    height: 100%;
+    width: 400px;
+}
+.imagen1 img{
+    height: inherit;
+    width: inherit;
+}
+.descripcion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 4%;
+}
+.descripcion *{
+    text-wrap: pretty;
+    width: 90%;
+}
+.descripcion p:nth-child(1){
+    text-align: center;
+    font-weight: bold;
+}
+.descripcion p:nth-child(2){
+    text-align: center;
+    font-weight: bold;
+}
+

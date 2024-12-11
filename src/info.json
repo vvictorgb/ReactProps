@@ -1,0 +1,28 @@
+[
+    {
+        "foto":"joselito",
+        "nombre": "Joselito Martínez",
+        "pais": "España",
+        "cargo": "Ingeniero de software",
+        "empresa": "Amazon",
+        "opinion": "Sin ninguna duda, el mejor curso de programación. Muy práctico y útil en mi trabajo. Lo recomiendo"
+    },
+
+    {
+        "foto":"cheyenne",
+        "nombre": "Cheyenne Plasencia",
+        "pais": "Nigeria",
+        "cargo": "Ingeniera de software",
+        "empresa": "Spotify",
+        "opinion": "Mucho respeto a la programación pero con este curso ha sido todo muy fácil. Gran cantidad de ejemplos y atención personalizada. Lo recomiendo"
+    },
+
+    {
+        "foto":"consuelo",
+        "nombre": "Consuelo Berlanga",
+        "pais": "Alemania",
+        "cargo": "Ingeniera de software",
+        "empresa": "Tesla",
+        "opinion": "En poco tiempo he sido capaz de crear aplicaciones complejas. Muy útil en mi trabajo. Elon Musk no daba crédito. Muy útil"
+    }
+]
