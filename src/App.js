@@ -6,7 +6,9 @@ export default function App(){
     return(
         <div>
             <Cabecera/>
-            {info.map( (elemento, index) => <Card key={index} personas={elemento}/>)}
+            <div className="container">
+            {info.map( (elemento, index) => <Card key={index} pokemon={elemento}/>)}
+            </div>
         </div>
     
 )   

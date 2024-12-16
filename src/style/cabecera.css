@@ -1,9 +1,10 @@
 .cabecera{
-    font-size: 25px;
+    font-size: 40px;
     font-weight: bold;
-    width: 30%;
+    width: 70%;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 100px;
     text-align: center;
     margin-bottom: 50px;
+    color: rgb(233, 198, 44);
 }
